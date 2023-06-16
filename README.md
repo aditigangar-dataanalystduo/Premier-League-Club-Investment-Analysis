@@ -15,7 +15,7 @@ Premier League Final Data.csv- : The data set contains information on all the te
  - Team Launch: Year in which the club was founded
  - Winners: Number of times the club has won the Premier League
  - Runners-up: Number of times the club has finished as runners-up in the Premier League
- - Project Objective
+ - Lastplayed: Last played in premier league
 
 ### Primary Objective:
 The management of Company ABC aims to invest in some of the top-performing clubs in the English Premier League. To aid in their decision-making process, the analytics department has been tasked with creating a comprehensive report on the performance of various clubs. However, some of the more established clubs have already been owned by the competitors. As a result, Company ABC wishes to identify the clubs they can approach and potentially invest to ensure a successful and profitable deal.
